@@ -33,8 +33,7 @@ def load_data():
             st.stop()
             
     return df
-
-df = load_data()
+    df = load_data()
     
     # --- SECTION 1: OPERATIONAL KPIs (Production & Loss) ---
     st.subheader("📊 Operational Health (2025 Current)")
