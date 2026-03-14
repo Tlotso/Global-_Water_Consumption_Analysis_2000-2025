@@ -13,13 +13,28 @@ st.markdown("""
 """)
 
 # 2. Automated Data Loading (The "Lite" dataset we created)
+# --- Updated Data Loading with Safety Checks ---
 @st.cache_data
 def load_data():
     df = pd.read_csv('water_risk_lite.csv')
+    
+    # Junior Analyst Tip: Standardize column names to avoid KeyErrors
+    # This removes spaces and makes everything lowercase for easier matching
+    df.columns = [c.strip().replace(' ', '_') for c in df.columns]
+    
+    # Fallback logic: If 'Risk_Score' is missing, try to calculate it or find a similar name
+    if 'Risk_Score' not in df.columns:
+        # Check if it's named something else like 'risk_score'
+        cols_map = {col.lower(): col for col in df.columns}
+        if 'risk_score' in cols_map:
+            df['Risk_Score'] = df[cols_map['risk_score']]
+        else:
+            st.error("Column 'Risk_Score' not found in CSV! Please check your export code.")
+            st.stop()
+            
     return df
 
-try:
-    df = load_data()
+df = load_data()
     
     # --- SECTION 1: OPERATIONAL KPIs (Production & Loss) ---
     st.subheader("📊 Operational Health (2025 Current)")
