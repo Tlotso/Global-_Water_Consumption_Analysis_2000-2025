@@ -1,0 +1,3901 @@
+Country,Year
+China,2000
+China,2001
+China,2002
+China,2003
+China,2004
+China,2005
+China,2006
+China,2007
+China,2008
+China,2009
+China,2010
+China,2011
+China,2012
+China,2013
+China,2014
+China,2015
+China,2016
+China,2017
+China,2018
+China,2019
+China,2020
+China,2021
+China,2022
+China,2023
+China,2024
+China,2025
+India,2000
+India,2001
+India,2002
+India,2003
+India,2004
+India,2005
+India,2006
+India,2007
+India,2008
+India,2009
+India,2010
+India,2011
+India,2012
+India,2013
+India,2014
+India,2015
+India,2016
+India,2017
+India,2018
+India,2019
+India,2020
+India,2021
+India,2022
+India,2023
+India,2024
+India,2025
+USA,2000
+USA,2001
+USA,2002
+USA,2003
+USA,2004
+USA,2005
+USA,2006
+USA,2007
+USA,2008
+USA,2009
+USA,2010
+USA,2011
+USA,2012
+USA,2013
+USA,2014
+USA,2015
+USA,2016
+USA,2017
+USA,2018
+USA,2019
+USA,2020
+USA,2021
+USA,2022
+USA,2023
+USA,2024
+USA,2025
+Indonesia,2000
+Indonesia,2001
+Indonesia,2002
+Indonesia,2003
+Indonesia,2004
+Indonesia,2005
+Indonesia,2006
+Indonesia,2007
+Indonesia,2008
+Indonesia,2009
+Indonesia,2010
+Indonesia,2011
+Indonesia,2012
+Indonesia,2013
+Indonesia,2014
+Indonesia,2015
+Indonesia,2016
+Indonesia,2017
+Indonesia,2018
+Indonesia,2019
+Indonesia,2020
+Indonesia,2021
+Indonesia,2022
+Indonesia,2023
+Indonesia,2024
+Indonesia,2025
+Pakistan,2000
+Pakistan,2001
+Pakistan,2002
+Pakistan,2003
+Pakistan,2004
+Pakistan,2005
+Pakistan,2006
+Pakistan,2007
+Pakistan,2008
+Pakistan,2009
+Pakistan,2010
+Pakistan,2011
+Pakistan,2012
+Pakistan,2013
+Pakistan,2014
+Pakistan,2015
+Pakistan,2016
+Pakistan,2017
+Pakistan,2018
+Pakistan,2019
+Pakistan,2020
+Pakistan,2021
+Pakistan,2022
+Pakistan,2023
+Pakistan,2024
+Pakistan,2025
+Brazil,2000
+Brazil,2001
+Brazil,2002
+Brazil,2003
+Brazil,2004
+Brazil,2005
+Brazil,2006
+Brazil,2007
+Brazil,2008
+Brazil,2009
+Brazil,2010
+Brazil,2011
+Brazil,2012
+Brazil,2013
+Brazil,2014
+Brazil,2015
+Brazil,2016
+Brazil,2017
+Brazil,2018
+Brazil,2019
+Brazil,2020
+Brazil,2021
+Brazil,2022
+Brazil,2023
+Brazil,2024
+Brazil,2025
+Nigeria,2000
+Nigeria,2001
+Nigeria,2002
+Nigeria,2003
+Nigeria,2004
+Nigeria,2005
+Nigeria,2006
+Nigeria,2007
+Nigeria,2008
+Nigeria,2009
+Nigeria,2010
+Nigeria,2011
+Nigeria,2012
+Nigeria,2013
+Nigeria,2014
+Nigeria,2015
+Nigeria,2016
+Nigeria,2017
+Nigeria,2018
+Nigeria,2019
+Nigeria,2020
+Nigeria,2021
+Nigeria,2022
+Nigeria,2023
+Nigeria,2024
+Nigeria,2025
+Bangladesh,2000
+Bangladesh,2001
+Bangladesh,2002
+Bangladesh,2003
+Bangladesh,2004
+Bangladesh,2005
+Bangladesh,2006
+Bangladesh,2007
+Bangladesh,2008
+Bangladesh,2009
+Bangladesh,2010
+Bangladesh,2011
+Bangladesh,2012
+Bangladesh,2013
+Bangladesh,2014
+Bangladesh,2015
+Bangladesh,2016
+Bangladesh,2017
+Bangladesh,2018
+Bangladesh,2019
+Bangladesh,2020
+Bangladesh,2021
+Bangladesh,2022
+Bangladesh,2023
+Bangladesh,2024
+Bangladesh,2025
+Russia,2000
+Russia,2001
+Russia,2002
+Russia,2003
+Russia,2004
+Russia,2005
+Russia,2006
+Russia,2007
+Russia,2008
+Russia,2009
+Russia,2010
+Russia,2011
+Russia,2012
+Russia,2013
+Russia,2014
+Russia,2015
+Russia,2016
+Russia,2017
+Russia,2018
+Russia,2019
+Russia,2020
+Russia,2021
+Russia,2022
+Russia,2023
+Russia,2024
+Russia,2025
+Mexico,2000
+Mexico,2001
+Mexico,2002
+Mexico,2003
+Mexico,2004
+Mexico,2005
+Mexico,2006
+Mexico,2007
+Mexico,2008
+Mexico,2009
+Mexico,2010
+Mexico,2011
+Mexico,2012
+Mexico,2013
+Mexico,2014
+Mexico,2015
+Mexico,2016
+Mexico,2017
+Mexico,2018
+Mexico,2019
+Mexico,2020
+Mexico,2021
+Mexico,2022
+Mexico,2023
+Mexico,2024
+Mexico,2025
+Japan,2000
+Japan,2001
+Japan,2002
+Japan,2003
+Japan,2004
+Japan,2005
+Japan,2006
+Japan,2007
+Japan,2008
+Japan,2009
+Japan,2010
+Japan,2011
+Japan,2012
+Japan,2013
+Japan,2014
+Japan,2015
+Japan,2016
+Japan,2017
+Japan,2018
+Japan,2019
+Japan,2020
+Japan,2021
+Japan,2022
+Japan,2023
+Japan,2024
+Japan,2025
+Ethiopia,2000
+Ethiopia,2001
+Ethiopia,2002
+Ethiopia,2003
+Ethiopia,2004
+Ethiopia,2005
+Ethiopia,2006
+Ethiopia,2007
+Ethiopia,2008
+Ethiopia,2009
+Ethiopia,2010
+Ethiopia,2011
+Ethiopia,2012
+Ethiopia,2013
+Ethiopia,2014
+Ethiopia,2015
+Ethiopia,2016
+Ethiopia,2017
+Ethiopia,2018
+Ethiopia,2019
+Ethiopia,2020
+Ethiopia,2021
+Ethiopia,2022
+Ethiopia,2023
+Ethiopia,2024
+Ethiopia,2025
+Philippines,2000
+Philippines,2001
+Philippines,2002
+Philippines,2003
+Philippines,2004
+Philippines,2005
+Philippines,2006
+Philippines,2007
+Philippines,2008
+Philippines,2009
+Philippines,2010
+Philippines,2011
+Philippines,2012
+Philippines,2013
+Philippines,2014
+Philippines,2015
+Philippines,2016
+Philippines,2017
+Philippines,2018
+Philippines,2019
+Philippines,2020
+Philippines,2021
+Philippines,2022
+Philippines,2023
+Philippines,2024
+Philippines,2025
+Egypt,2000
+Egypt,2001
+Egypt,2002
+Egypt,2003
+Egypt,2004
+Egypt,2005
+Egypt,2006
+Egypt,2007
+Egypt,2008
+Egypt,2009
+Egypt,2010
+Egypt,2011
+Egypt,2012
+Egypt,2013
+Egypt,2014
+Egypt,2015
+Egypt,2016
+Egypt,2017
+Egypt,2018
+Egypt,2019
+Egypt,2020
+Egypt,2021
+Egypt,2022
+Egypt,2023
+Egypt,2024
+Egypt,2025
+Vietnam,2000
+Vietnam,2001
+Vietnam,2002
+Vietnam,2003
+Vietnam,2004
+Vietnam,2005
+Vietnam,2006
+Vietnam,2007
+Vietnam,2008
+Vietnam,2009
+Vietnam,2010
+Vietnam,2011
+Vietnam,2012
+Vietnam,2013
+Vietnam,2014
+Vietnam,2015
+Vietnam,2016
+Vietnam,2017
+Vietnam,2018
+Vietnam,2019
+Vietnam,2020
+Vietnam,2021
+Vietnam,2022
+Vietnam,2023
+Vietnam,2024
+Vietnam,2025
+DR Congo,2000
+DR Congo,2001
+DR Congo,2002
+DR Congo,2003
+DR Congo,2004
+DR Congo,2005
+DR Congo,2006
+DR Congo,2007
+DR Congo,2008
+DR Congo,2009
+DR Congo,2010
+DR Congo,2011
+DR Congo,2012
+DR Congo,2013
+DR Congo,2014
+DR Congo,2015
+DR Congo,2016
+DR Congo,2017
+DR Congo,2018
+DR Congo,2019
+DR Congo,2020
+DR Congo,2021
+DR Congo,2022
+DR Congo,2023
+DR Congo,2024
+DR Congo,2025
+Turkey,2000
+Turkey,2001
+Turkey,2002
+Turkey,2003
+Turkey,2004
+Turkey,2005
+Turkey,2006
+Turkey,2007
+Turkey,2008
+Turkey,2009
+Turkey,2010
+Turkey,2011
+Turkey,2012
+Turkey,2013
+Turkey,2014
+Turkey,2015
+Turkey,2016
+Turkey,2017
+Turkey,2018
+Turkey,2019
+Turkey,2020
+Turkey,2021
+Turkey,2022
+Turkey,2023
+Turkey,2024
+Turkey,2025
+Iran,2000
+Iran,2001
+Iran,2002
+Iran,2003
+Iran,2004
+Iran,2005
+Iran,2006
+Iran,2007
+Iran,2008
+Iran,2009
+Iran,2010
+Iran,2011
+Iran,2012
+Iran,2013
+Iran,2014
+Iran,2015
+Iran,2016
+Iran,2017
+Iran,2018
+Iran,2019
+Iran,2020
+Iran,2021
+Iran,2022
+Iran,2023
+Iran,2024
+Iran,2025
+Germany,2000
+Germany,2001
+Germany,2002
+Germany,2003
+Germany,2004
+Germany,2005
+Germany,2006
+Germany,2007
+Germany,2008
+Germany,2009
+Germany,2010
+Germany,2011
+Germany,2012
+Germany,2013
+Germany,2014
+Germany,2015
+Germany,2016
+Germany,2017
+Germany,2018
+Germany,2019
+Germany,2020
+Germany,2021
+Germany,2022
+Germany,2023
+Germany,2024
+Germany,2025
+Thailand,2000
+Thailand,2001
+Thailand,2002
+Thailand,2003
+Thailand,2004
+Thailand,2005
+Thailand,2006
+Thailand,2007
+Thailand,2008
+Thailand,2009
+Thailand,2010
+Thailand,2011
+Thailand,2012
+Thailand,2013
+Thailand,2014
+Thailand,2015
+Thailand,2016
+Thailand,2017
+Thailand,2018
+Thailand,2019
+Thailand,2020
+Thailand,2021
+Thailand,2022
+Thailand,2023
+Thailand,2024
+Thailand,2025
+United Kingdom,2000
+United Kingdom,2001
+United Kingdom,2002
+United Kingdom,2003
+United Kingdom,2004
+United Kingdom,2005
+United Kingdom,2006
+United Kingdom,2007
+United Kingdom,2008
+United Kingdom,2009
+United Kingdom,2010
+United Kingdom,2011
+United Kingdom,2012
+United Kingdom,2013
+United Kingdom,2014
+United Kingdom,2015
+United Kingdom,2016
+United Kingdom,2017
+United Kingdom,2018
+United Kingdom,2019
+United Kingdom,2020
+United Kingdom,2021
+United Kingdom,2022
+United Kingdom,2023
+United Kingdom,2024
+United Kingdom,2025
+France,2000
+France,2001
+France,2002
+France,2003
+France,2004
+France,2005
+France,2006
+France,2007
+France,2008
+France,2009
+France,2010
+France,2011
+France,2012
+France,2013
+France,2014
+France,2015
+France,2016
+France,2017
+France,2018
+France,2019
+France,2020
+France,2021
+France,2022
+France,2023
+France,2024
+France,2025
+Italy,2000
+Italy,2001
+Italy,2002
+Italy,2003
+Italy,2004
+Italy,2005
+Italy,2006
+Italy,2007
+Italy,2008
+Italy,2009
+Italy,2010
+Italy,2011
+Italy,2012
+Italy,2013
+Italy,2014
+Italy,2015
+Italy,2016
+Italy,2017
+Italy,2018
+Italy,2019
+Italy,2020
+Italy,2021
+Italy,2022
+Italy,2023
+Italy,2024
+Italy,2025
+Tanzania,2000
+Tanzania,2001
+Tanzania,2002
+Tanzania,2003
+Tanzania,2004
+Tanzania,2005
+Tanzania,2006
+Tanzania,2007
+Tanzania,2008
+Tanzania,2009
+Tanzania,2010
+Tanzania,2011
+Tanzania,2012
+Tanzania,2013
+Tanzania,2014
+Tanzania,2015
+Tanzania,2016
+Tanzania,2017
+Tanzania,2018
+Tanzania,2019
+Tanzania,2020
+Tanzania,2021
+Tanzania,2022
+Tanzania,2023
+Tanzania,2024
+Tanzania,2025
+South Africa,2000
+South Africa,2001
+South Africa,2002
+South Africa,2003
+South Africa,2004
+South Africa,2005
+South Africa,2006
+South Africa,2007
+South Africa,2008
+South Africa,2009
+South Africa,2010
+South Africa,2011
+South Africa,2012
+South Africa,2013
+South Africa,2014
+South Africa,2015
+South Africa,2016
+South Africa,2017
+South Africa,2018
+South Africa,2019
+South Africa,2020
+South Africa,2021
+South Africa,2022
+South Africa,2023
+South Africa,2024
+South Africa,2025
+Myanmar,2000
+Myanmar,2001
+Myanmar,2002
+Myanmar,2003
+Myanmar,2004
+Myanmar,2005
+Myanmar,2006
+Myanmar,2007
+Myanmar,2008
+Myanmar,2009
+Myanmar,2010
+Myanmar,2011
+Myanmar,2012
+Myanmar,2013
+Myanmar,2014
+Myanmar,2015
+Myanmar,2016
+Myanmar,2017
+Myanmar,2018
+Myanmar,2019
+Myanmar,2020
+Myanmar,2021
+Myanmar,2022
+Myanmar,2023
+Myanmar,2024
+Myanmar,2025
+Kenya,2000
+Kenya,2001
+Kenya,2002
+Kenya,2003
+Kenya,2004
+Kenya,2005
+Kenya,2006
+Kenya,2007
+Kenya,2008
+Kenya,2009
+Kenya,2010
+Kenya,2011
+Kenya,2012
+Kenya,2013
+Kenya,2014
+Kenya,2015
+Kenya,2016
+Kenya,2017
+Kenya,2018
+Kenya,2019
+Kenya,2020
+Kenya,2021
+Kenya,2022
+Kenya,2023
+Kenya,2024
+Kenya,2025
+South Korea,2000
+South Korea,2001
+South Korea,2002
+South Korea,2003
+South Korea,2004
+South Korea,2005
+South Korea,2006
+South Korea,2007
+South Korea,2008
+South Korea,2009
+South Korea,2010
+South Korea,2011
+South Korea,2012
+South Korea,2013
+South Korea,2014
+South Korea,2015
+South Korea,2016
+South Korea,2017
+South Korea,2018
+South Korea,2019
+South Korea,2020
+South Korea,2021
+South Korea,2022
+South Korea,2023
+South Korea,2024
+South Korea,2025
+Colombia,2000
+Colombia,2001
+Colombia,2002
+Colombia,2003
+Colombia,2004
+Colombia,2005
+Colombia,2006
+Colombia,2007
+Colombia,2008
+Colombia,2009
+Colombia,2010
+Colombia,2011
+Colombia,2012
+Colombia,2013
+Colombia,2014
+Colombia,2015
+Colombia,2016
+Colombia,2017
+Colombia,2018
+Colombia,2019
+Colombia,2020
+Colombia,2021
+Colombia,2022
+Colombia,2023
+Colombia,2024
+Colombia,2025
+Spain,2000
+Spain,2001
+Spain,2002
+Spain,2003
+Spain,2004
+Spain,2005
+Spain,2006
+Spain,2007
+Spain,2008
+Spain,2009
+Spain,2010
+Spain,2011
+Spain,2012
+Spain,2013
+Spain,2014
+Spain,2015
+Spain,2016
+Spain,2017
+Spain,2018
+Spain,2019
+Spain,2020
+Spain,2021
+Spain,2022
+Spain,2023
+Spain,2024
+Spain,2025
+Uganda,2000
+Uganda,2001
+Uganda,2002
+Uganda,2003
+Uganda,2004
+Uganda,2005
+Uganda,2006
+Uganda,2007
+Uganda,2008
+Uganda,2009
+Uganda,2010
+Uganda,2011
+Uganda,2012
+Uganda,2013
+Uganda,2014
+Uganda,2015
+Uganda,2016
+Uganda,2017
+Uganda,2018
+Uganda,2019
+Uganda,2020
+Uganda,2021
+Uganda,2022
+Uganda,2023
+Uganda,2024
+Uganda,2025
+Argentina,2000
+Argentina,2001
+Argentina,2002
+Argentina,2003
+Argentina,2004
+Argentina,2005
+Argentina,2006
+Argentina,2007
+Argentina,2008
+Argentina,2009
+Argentina,2010
+Argentina,2011
+Argentina,2012
+Argentina,2013
+Argentina,2014
+Argentina,2015
+Argentina,2016
+Argentina,2017
+Argentina,2018
+Argentina,2019
+Argentina,2020
+Argentina,2021
+Argentina,2022
+Argentina,2023
+Argentina,2024
+Argentina,2025
+Algeria,2000
+Algeria,2001
+Algeria,2002
+Algeria,2003
+Algeria,2004
+Algeria,2005
+Algeria,2006
+Algeria,2007
+Algeria,2008
+Algeria,2009
+Algeria,2010
+Algeria,2011
+Algeria,2012
+Algeria,2013
+Algeria,2014
+Algeria,2015
+Algeria,2016
+Algeria,2017
+Algeria,2018
+Algeria,2019
+Algeria,2020
+Algeria,2021
+Algeria,2022
+Algeria,2023
+Algeria,2024
+Algeria,2025
+Sudan,2000
+Sudan,2001
+Sudan,2002
+Sudan,2003
+Sudan,2004
+Sudan,2005
+Sudan,2006
+Sudan,2007
+Sudan,2008
+Sudan,2009
+Sudan,2010
+Sudan,2011
+Sudan,2012
+Sudan,2013
+Sudan,2014
+Sudan,2015
+Sudan,2016
+Sudan,2017
+Sudan,2018
+Sudan,2019
+Sudan,2020
+Sudan,2021
+Sudan,2022
+Sudan,2023
+Sudan,2024
+Sudan,2025
+Ukraine,2000
+Ukraine,2001
+Ukraine,2002
+Ukraine,2003
+Ukraine,2004
+Ukraine,2005
+Ukraine,2006
+Ukraine,2007
+Ukraine,2008
+Ukraine,2009
+Ukraine,2010
+Ukraine,2011
+Ukraine,2012
+Ukraine,2013
+Ukraine,2014
+Ukraine,2015
+Ukraine,2016
+Ukraine,2017
+Ukraine,2018
+Ukraine,2019
+Ukraine,2020
+Ukraine,2021
+Ukraine,2022
+Ukraine,2023
+Ukraine,2024
+Ukraine,2025
+Iraq,2000
+Iraq,2001
+Iraq,2002
+Iraq,2003
+Iraq,2004
+Iraq,2005
+Iraq,2006
+Iraq,2007
+Iraq,2008
+Iraq,2009
+Iraq,2010
+Iraq,2011
+Iraq,2012
+Iraq,2013
+Iraq,2014
+Iraq,2015
+Iraq,2016
+Iraq,2017
+Iraq,2018
+Iraq,2019
+Iraq,2020
+Iraq,2021
+Iraq,2022
+Iraq,2023
+Iraq,2024
+Iraq,2025
+Afghanistan,2000
+Afghanistan,2001
+Afghanistan,2002
+Afghanistan,2003
+Afghanistan,2004
+Afghanistan,2005
+Afghanistan,2006
+Afghanistan,2007
+Afghanistan,2008
+Afghanistan,2009
+Afghanistan,2010
+Afghanistan,2011
+Afghanistan,2012
+Afghanistan,2013
+Afghanistan,2014
+Afghanistan,2015
+Afghanistan,2016
+Afghanistan,2017
+Afghanistan,2018
+Afghanistan,2019
+Afghanistan,2020
+Afghanistan,2021
+Afghanistan,2022
+Afghanistan,2023
+Afghanistan,2024
+Afghanistan,2025
+Poland,2000
+Poland,2001
+Poland,2002
+Poland,2003
+Poland,2004
+Poland,2005
+Poland,2006
+Poland,2007
+Poland,2008
+Poland,2009
+Poland,2010
+Poland,2011
+Poland,2012
+Poland,2013
+Poland,2014
+Poland,2015
+Poland,2016
+Poland,2017
+Poland,2018
+Poland,2019
+Poland,2020
+Poland,2021
+Poland,2022
+Poland,2023
+Poland,2024
+Poland,2025
+Canada,2000
+Canada,2001
+Canada,2002
+Canada,2003
+Canada,2004
+Canada,2005
+Canada,2006
+Canada,2007
+Canada,2008
+Canada,2009
+Canada,2010
+Canada,2011
+Canada,2012
+Canada,2013
+Canada,2014
+Canada,2015
+Canada,2016
+Canada,2017
+Canada,2018
+Canada,2019
+Canada,2020
+Canada,2021
+Canada,2022
+Canada,2023
+Canada,2024
+Canada,2025
+Morocco,2000
+Morocco,2001
+Morocco,2002
+Morocco,2003
+Morocco,2004
+Morocco,2005
+Morocco,2006
+Morocco,2007
+Morocco,2008
+Morocco,2009
+Morocco,2010
+Morocco,2011
+Morocco,2012
+Morocco,2013
+Morocco,2014
+Morocco,2015
+Morocco,2016
+Morocco,2017
+Morocco,2018
+Morocco,2019
+Morocco,2020
+Morocco,2021
+Morocco,2022
+Morocco,2023
+Morocco,2024
+Morocco,2025
+Saudi Arabia,2000
+Saudi Arabia,2001
+Saudi Arabia,2002
+Saudi Arabia,2003
+Saudi Arabia,2004
+Saudi Arabia,2005
+Saudi Arabia,2006
+Saudi Arabia,2007
+Saudi Arabia,2008
+Saudi Arabia,2009
+Saudi Arabia,2010
+Saudi Arabia,2011
+Saudi Arabia,2012
+Saudi Arabia,2013
+Saudi Arabia,2014
+Saudi Arabia,2015
+Saudi Arabia,2016
+Saudi Arabia,2017
+Saudi Arabia,2018
+Saudi Arabia,2019
+Saudi Arabia,2020
+Saudi Arabia,2021
+Saudi Arabia,2022
+Saudi Arabia,2023
+Saudi Arabia,2024
+Saudi Arabia,2025
+Uzbekistan,2000
+Uzbekistan,2001
+Uzbekistan,2002
+Uzbekistan,2003
+Uzbekistan,2004
+Uzbekistan,2005
+Uzbekistan,2006
+Uzbekistan,2007
+Uzbekistan,2008
+Uzbekistan,2009
+Uzbekistan,2010
+Uzbekistan,2011
+Uzbekistan,2012
+Uzbekistan,2013
+Uzbekistan,2014
+Uzbekistan,2015
+Uzbekistan,2016
+Uzbekistan,2017
+Uzbekistan,2018
+Uzbekistan,2019
+Uzbekistan,2020
+Uzbekistan,2021
+Uzbekistan,2022
+Uzbekistan,2023
+Uzbekistan,2024
+Uzbekistan,2025
+Malaysia,2000
+Malaysia,2001
+Malaysia,2002
+Malaysia,2003
+Malaysia,2004
+Malaysia,2005
+Malaysia,2006
+Malaysia,2007
+Malaysia,2008
+Malaysia,2009
+Malaysia,2010
+Malaysia,2011
+Malaysia,2012
+Malaysia,2013
+Malaysia,2014
+Malaysia,2015
+Malaysia,2016
+Malaysia,2017
+Malaysia,2018
+Malaysia,2019
+Malaysia,2020
+Malaysia,2021
+Malaysia,2022
+Malaysia,2023
+Malaysia,2024
+Malaysia,2025
+Peru,2000
+Peru,2001
+Peru,2002
+Peru,2003
+Peru,2004
+Peru,2005
+Peru,2006
+Peru,2007
+Peru,2008
+Peru,2009
+Peru,2010
+Peru,2011
+Peru,2012
+Peru,2013
+Peru,2014
+Peru,2015
+Peru,2016
+Peru,2017
+Peru,2018
+Peru,2019
+Peru,2020
+Peru,2021
+Peru,2022
+Peru,2023
+Peru,2024
+Peru,2025
+Angola,2000
+Angola,2001
+Angola,2002
+Angola,2003
+Angola,2004
+Angola,2005
+Angola,2006
+Angola,2007
+Angola,2008
+Angola,2009
+Angola,2010
+Angola,2011
+Angola,2012
+Angola,2013
+Angola,2014
+Angola,2015
+Angola,2016
+Angola,2017
+Angola,2018
+Angola,2019
+Angola,2020
+Angola,2021
+Angola,2022
+Angola,2023
+Angola,2024
+Angola,2025
+Ghana,2000
+Ghana,2001
+Ghana,2002
+Ghana,2003
+Ghana,2004
+Ghana,2005
+Ghana,2006
+Ghana,2007
+Ghana,2008
+Ghana,2009
+Ghana,2010
+Ghana,2011
+Ghana,2012
+Ghana,2013
+Ghana,2014
+Ghana,2015
+Ghana,2016
+Ghana,2017
+Ghana,2018
+Ghana,2019
+Ghana,2020
+Ghana,2021
+Ghana,2022
+Ghana,2023
+Ghana,2024
+Ghana,2025
+Mozambique,2000
+Mozambique,2001
+Mozambique,2002
+Mozambique,2003
+Mozambique,2004
+Mozambique,2005
+Mozambique,2006
+Mozambique,2007
+Mozambique,2008
+Mozambique,2009
+Mozambique,2010
+Mozambique,2011
+Mozambique,2012
+Mozambique,2013
+Mozambique,2014
+Mozambique,2015
+Mozambique,2016
+Mozambique,2017
+Mozambique,2018
+Mozambique,2019
+Mozambique,2020
+Mozambique,2021
+Mozambique,2022
+Mozambique,2023
+Mozambique,2024
+Mozambique,2025
+Yemen,2000
+Yemen,2001
+Yemen,2002
+Yemen,2003
+Yemen,2004
+Yemen,2005
+Yemen,2006
+Yemen,2007
+Yemen,2008
+Yemen,2009
+Yemen,2010
+Yemen,2011
+Yemen,2012
+Yemen,2013
+Yemen,2014
+Yemen,2015
+Yemen,2016
+Yemen,2017
+Yemen,2018
+Yemen,2019
+Yemen,2020
+Yemen,2021
+Yemen,2022
+Yemen,2023
+Yemen,2024
+Yemen,2025
+Nepal,2000
+Nepal,2001
+Nepal,2002
+Nepal,2003
+Nepal,2004
+Nepal,2005
+Nepal,2006
+Nepal,2007
+Nepal,2008
+Nepal,2009
+Nepal,2010
+Nepal,2011
+Nepal,2012
+Nepal,2013
+Nepal,2014
+Nepal,2015
+Nepal,2016
+Nepal,2017
+Nepal,2018
+Nepal,2019
+Nepal,2020
+Nepal,2021
+Nepal,2022
+Nepal,2023
+Nepal,2024
+Nepal,2025
+Venezuela,2000
+Venezuela,2001
+Venezuela,2002
+Venezuela,2003
+Venezuela,2004
+Venezuela,2005
+Venezuela,2006
+Venezuela,2007
+Venezuela,2008
+Venezuela,2009
+Venezuela,2010
+Venezuela,2011
+Venezuela,2012
+Venezuela,2013
+Venezuela,2014
+Venezuela,2015
+Venezuela,2016
+Venezuela,2017
+Venezuela,2018
+Venezuela,2019
+Venezuela,2020
+Venezuela,2021
+Venezuela,2022
+Venezuela,2023
+Venezuela,2024
+Venezuela,2025
+Madagascar,2000
+Madagascar,2001
+Madagascar,2002
+Madagascar,2003
+Madagascar,2004
+Madagascar,2005
+Madagascar,2006
+Madagascar,2007
+Madagascar,2008
+Madagascar,2009
+Madagascar,2010
+Madagascar,2011
+Madagascar,2012
+Madagascar,2013
+Madagascar,2014
+Madagascar,2015
+Madagascar,2016
+Madagascar,2017
+Madagascar,2018
+Madagascar,2019
+Madagascar,2020
+Madagascar,2021
+Madagascar,2022
+Madagascar,2023
+Madagascar,2024
+Madagascar,2025
+Cameroon,2000
+Cameroon,2001
+Cameroon,2002
+Cameroon,2003
+Cameroon,2004
+Cameroon,2005
+Cameroon,2006
+Cameroon,2007
+Cameroon,2008
+Cameroon,2009
+Cameroon,2010
+Cameroon,2011
+Cameroon,2012
+Cameroon,2013
+Cameroon,2014
+Cameroon,2015
+Cameroon,2016
+Cameroon,2017
+Cameroon,2018
+Cameroon,2019
+Cameroon,2020
+Cameroon,2021
+Cameroon,2022
+Cameroon,2023
+Cameroon,2024
+Cameroon,2025
+Côte d'Ivoire,2000
+Côte d'Ivoire,2001
+Côte d'Ivoire,2002
+Côte d'Ivoire,2003
+Côte d'Ivoire,2004
+Côte d'Ivoire,2005
+Côte d'Ivoire,2006
+Côte d'Ivoire,2007
+Côte d'Ivoire,2008
+Côte d'Ivoire,2009
+Côte d'Ivoire,2010
+Côte d'Ivoire,2011
+Côte d'Ivoire,2012
+Côte d'Ivoire,2013
+Côte d'Ivoire,2014
+Côte d'Ivoire,2015
+Côte d'Ivoire,2016
+Côte d'Ivoire,2017
+Côte d'Ivoire,2018
+Côte d'Ivoire,2019
+Côte d'Ivoire,2020
+Côte d'Ivoire,2021
+Côte d'Ivoire,2022
+Côte d'Ivoire,2023
+Côte d'Ivoire,2024
+Côte d'Ivoire,2025
+North Korea,2000
+North Korea,2001
+North Korea,2002
+North Korea,2003
+North Korea,2004
+North Korea,2005
+North Korea,2006
+North Korea,2007
+North Korea,2008
+North Korea,2009
+North Korea,2010
+North Korea,2011
+North Korea,2012
+North Korea,2013
+North Korea,2014
+North Korea,2015
+North Korea,2016
+North Korea,2017
+North Korea,2018
+North Korea,2019
+North Korea,2020
+North Korea,2021
+North Korea,2022
+North Korea,2023
+North Korea,2024
+North Korea,2025
+Australia,2000
+Australia,2001
+Australia,2002
+Australia,2003
+Australia,2004
+Australia,2005
+Australia,2006
+Australia,2007
+Australia,2008
+Australia,2009
+Australia,2010
+Australia,2011
+Australia,2012
+Australia,2013
+Australia,2014
+Australia,2015
+Australia,2016
+Australia,2017
+Australia,2018
+Australia,2019
+Australia,2020
+Australia,2021
+Australia,2022
+Australia,2023
+Australia,2024
+Australia,2025
+Niger,2000
+Niger,2001
+Niger,2002
+Niger,2003
+Niger,2004
+Niger,2005
+Niger,2006
+Niger,2007
+Niger,2008
+Niger,2009
+Niger,2010
+Niger,2011
+Niger,2012
+Niger,2013
+Niger,2014
+Niger,2015
+Niger,2016
+Niger,2017
+Niger,2018
+Niger,2019
+Niger,2020
+Niger,2021
+Niger,2022
+Niger,2023
+Niger,2024
+Niger,2025
+Taiwan,2000
+Taiwan,2001
+Taiwan,2002
+Taiwan,2003
+Taiwan,2004
+Taiwan,2005
+Taiwan,2006
+Taiwan,2007
+Taiwan,2008
+Taiwan,2009
+Taiwan,2010
+Taiwan,2011
+Taiwan,2012
+Taiwan,2013
+Taiwan,2014
+Taiwan,2015
+Taiwan,2016
+Taiwan,2017
+Taiwan,2018
+Taiwan,2019
+Taiwan,2020
+Taiwan,2021
+Taiwan,2022
+Taiwan,2023
+Taiwan,2024
+Taiwan,2025
+Sri Lanka,2000
+Sri Lanka,2001
+Sri Lanka,2002
+Sri Lanka,2003
+Sri Lanka,2004
+Sri Lanka,2005
+Sri Lanka,2006
+Sri Lanka,2007
+Sri Lanka,2008
+Sri Lanka,2009
+Sri Lanka,2010
+Sri Lanka,2011
+Sri Lanka,2012
+Sri Lanka,2013
+Sri Lanka,2014
+Sri Lanka,2015
+Sri Lanka,2016
+Sri Lanka,2017
+Sri Lanka,2018
+Sri Lanka,2019
+Sri Lanka,2020
+Sri Lanka,2021
+Sri Lanka,2022
+Sri Lanka,2023
+Sri Lanka,2024
+Sri Lanka,2025
+Burkina Faso,2000
+Burkina Faso,2001
+Burkina Faso,2002
+Burkina Faso,2003
+Burkina Faso,2004
+Burkina Faso,2005
+Burkina Faso,2006
+Burkina Faso,2007
+Burkina Faso,2008
+Burkina Faso,2009
+Burkina Faso,2010
+Burkina Faso,2011
+Burkina Faso,2012
+Burkina Faso,2013
+Burkina Faso,2014
+Burkina Faso,2015
+Burkina Faso,2016
+Burkina Faso,2017
+Burkina Faso,2018
+Burkina Faso,2019
+Burkina Faso,2020
+Burkina Faso,2021
+Burkina Faso,2022
+Burkina Faso,2023
+Burkina Faso,2024
+Burkina Faso,2025
+Mali,2000
+Mali,2001
+Mali,2002
+Mali,2003
+Mali,2004
+Mali,2005
+Mali,2006
+Mali,2007
+Mali,2008
+Mali,2009
+Mali,2010
+Mali,2011
+Mali,2012
+Mali,2013
+Mali,2014
+Mali,2015
+Mali,2016
+Mali,2017
+Mali,2018
+Mali,2019
+Mali,2020
+Mali,2021
+Mali,2022
+Mali,2023
+Mali,2024
+Mali,2025
+Romania,2000
+Romania,2001
+Romania,2002
+Romania,2003
+Romania,2004
+Romania,2005
+Romania,2006
+Romania,2007
+Romania,2008
+Romania,2009
+Romania,2010
+Romania,2011
+Romania,2012
+Romania,2013
+Romania,2014
+Romania,2015
+Romania,2016
+Romania,2017
+Romania,2018
+Romania,2019
+Romania,2020
+Romania,2021
+Romania,2022
+Romania,2023
+Romania,2024
+Romania,2025
+Malawi,2000
+Malawi,2001
+Malawi,2002
+Malawi,2003
+Malawi,2004
+Malawi,2005
+Malawi,2006
+Malawi,2007
+Malawi,2008
+Malawi,2009
+Malawi,2010
+Malawi,2011
+Malawi,2012
+Malawi,2013
+Malawi,2014
+Malawi,2015
+Malawi,2016
+Malawi,2017
+Malawi,2018
+Malawi,2019
+Malawi,2020
+Malawi,2021
+Malawi,2022
+Malawi,2023
+Malawi,2024
+Malawi,2025
+Chile,2000
+Chile,2001
+Chile,2002
+Chile,2003
+Chile,2004
+Chile,2005
+Chile,2006
+Chile,2007
+Chile,2008
+Chile,2009
+Chile,2010
+Chile,2011
+Chile,2012
+Chile,2013
+Chile,2014
+Chile,2015
+Chile,2016
+Chile,2017
+Chile,2018
+Chile,2019
+Chile,2020
+Chile,2021
+Chile,2022
+Chile,2023
+Chile,2024
+Chile,2025
+Kazakhstan,2000
+Kazakhstan,2001
+Kazakhstan,2002
+Kazakhstan,2003
+Kazakhstan,2004
+Kazakhstan,2005
+Kazakhstan,2006
+Kazakhstan,2007
+Kazakhstan,2008
+Kazakhstan,2009
+Kazakhstan,2010
+Kazakhstan,2011
+Kazakhstan,2012
+Kazakhstan,2013
+Kazakhstan,2014
+Kazakhstan,2015
+Kazakhstan,2016
+Kazakhstan,2017
+Kazakhstan,2018
+Kazakhstan,2019
+Kazakhstan,2020
+Kazakhstan,2021
+Kazakhstan,2022
+Kazakhstan,2023
+Kazakhstan,2024
+Kazakhstan,2025
+Zambia,2000
+Zambia,2001
+Zambia,2002
+Zambia,2003
+Zambia,2004
+Zambia,2005
+Zambia,2006
+Zambia,2007
+Zambia,2008
+Zambia,2009
+Zambia,2010
+Zambia,2011
+Zambia,2012
+Zambia,2013
+Zambia,2014
+Zambia,2015
+Zambia,2016
+Zambia,2017
+Zambia,2018
+Zambia,2019
+Zambia,2020
+Zambia,2021
+Zambia,2022
+Zambia,2023
+Zambia,2024
+Zambia,2025
+Guatemala,2000
+Guatemala,2001
+Guatemala,2002
+Guatemala,2003
+Guatemala,2004
+Guatemala,2005
+Guatemala,2006
+Guatemala,2007
+Guatemala,2008
+Guatemala,2009
+Guatemala,2010
+Guatemala,2011
+Guatemala,2012
+Guatemala,2013
+Guatemala,2014
+Guatemala,2015
+Guatemala,2016
+Guatemala,2017
+Guatemala,2018
+Guatemala,2019
+Guatemala,2020
+Guatemala,2021
+Guatemala,2022
+Guatemala,2023
+Guatemala,2024
+Guatemala,2025
+Ecuador,2000
+Ecuador,2001
+Ecuador,2002
+Ecuador,2003
+Ecuador,2004
+Ecuador,2005
+Ecuador,2006
+Ecuador,2007
+Ecuador,2008
+Ecuador,2009
+Ecuador,2010
+Ecuador,2011
+Ecuador,2012
+Ecuador,2013
+Ecuador,2014
+Ecuador,2015
+Ecuador,2016
+Ecuador,2017
+Ecuador,2018
+Ecuador,2019
+Ecuador,2020
+Ecuador,2021
+Ecuador,2022
+Ecuador,2023
+Ecuador,2024
+Ecuador,2025
+Syria,2000
+Syria,2001
+Syria,2002
+Syria,2003
+Syria,2004
+Syria,2005
+Syria,2006
+Syria,2007
+Syria,2008
+Syria,2009
+Syria,2010
+Syria,2011
+Syria,2012
+Syria,2013
+Syria,2014
+Syria,2015
+Syria,2016
+Syria,2017
+Syria,2018
+Syria,2019
+Syria,2020
+Syria,2021
+Syria,2022
+Syria,2023
+Syria,2024
+Syria,2025
+Netherlands,2000
+Netherlands,2001
+Netherlands,2002
+Netherlands,2003
+Netherlands,2004
+Netherlands,2005
+Netherlands,2006
+Netherlands,2007
+Netherlands,2008
+Netherlands,2009
+Netherlands,2010
+Netherlands,2011
+Netherlands,2012
+Netherlands,2013
+Netherlands,2014
+Netherlands,2015
+Netherlands,2016
+Netherlands,2017
+Netherlands,2018
+Netherlands,2019
+Netherlands,2020
+Netherlands,2021
+Netherlands,2022
+Netherlands,2023
+Netherlands,2024
+Netherlands,2025
+Senegal,2000
+Senegal,2001
+Senegal,2002
+Senegal,2003
+Senegal,2004
+Senegal,2005
+Senegal,2006
+Senegal,2007
+Senegal,2008
+Senegal,2009
+Senegal,2010
+Senegal,2011
+Senegal,2012
+Senegal,2013
+Senegal,2014
+Senegal,2015
+Senegal,2016
+Senegal,2017
+Senegal,2018
+Senegal,2019
+Senegal,2020
+Senegal,2021
+Senegal,2022
+Senegal,2023
+Senegal,2024
+Senegal,2025
+Cambodia,2000
+Cambodia,2001
+Cambodia,2002
+Cambodia,2003
+Cambodia,2004
+Cambodia,2005
+Cambodia,2006
+Cambodia,2007
+Cambodia,2008
+Cambodia,2009
+Cambodia,2010
+Cambodia,2011
+Cambodia,2012
+Cambodia,2013
+Cambodia,2014
+Cambodia,2015
+Cambodia,2016
+Cambodia,2017
+Cambodia,2018
+Cambodia,2019
+Cambodia,2020
+Cambodia,2021
+Cambodia,2022
+Cambodia,2023
+Cambodia,2024
+Cambodia,2025
+Chad,2000
+Chad,2001
+Chad,2002
+Chad,2003
+Chad,2004
+Chad,2005
+Chad,2006
+Chad,2007
+Chad,2008
+Chad,2009
+Chad,2010
+Chad,2011
+Chad,2012
+Chad,2013
+Chad,2014
+Chad,2015
+Chad,2016
+Chad,2017
+Chad,2018
+Chad,2019
+Chad,2020
+Chad,2021
+Chad,2022
+Chad,2023
+Chad,2024
+Chad,2025
+Somalia,2000
+Somalia,2001
+Somalia,2002
+Somalia,2003
+Somalia,2004
+Somalia,2005
+Somalia,2006
+Somalia,2007
+Somalia,2008
+Somalia,2009
+Somalia,2010
+Somalia,2011
+Somalia,2012
+Somalia,2013
+Somalia,2014
+Somalia,2015
+Somalia,2016
+Somalia,2017
+Somalia,2018
+Somalia,2019
+Somalia,2020
+Somalia,2021
+Somalia,2022
+Somalia,2023
+Somalia,2024
+Somalia,2025
+Zimbabwe,2000
+Zimbabwe,2001
+Zimbabwe,2002
+Zimbabwe,2003
+Zimbabwe,2004
+Zimbabwe,2005
+Zimbabwe,2006
+Zimbabwe,2007
+Zimbabwe,2008
+Zimbabwe,2009
+Zimbabwe,2010
+Zimbabwe,2011
+Zimbabwe,2012
+Zimbabwe,2013
+Zimbabwe,2014
+Zimbabwe,2015
+Zimbabwe,2016
+Zimbabwe,2017
+Zimbabwe,2018
+Zimbabwe,2019
+Zimbabwe,2020
+Zimbabwe,2021
+Zimbabwe,2022
+Zimbabwe,2023
+Zimbabwe,2024
+Zimbabwe,2025
+Guinea,2000
+Guinea,2001
+Guinea,2002
+Guinea,2003
+Guinea,2004
+Guinea,2005
+Guinea,2006
+Guinea,2007
+Guinea,2008
+Guinea,2009
+Guinea,2010
+Guinea,2011
+Guinea,2012
+Guinea,2013
+Guinea,2014
+Guinea,2015
+Guinea,2016
+Guinea,2017
+Guinea,2018
+Guinea,2019
+Guinea,2020
+Guinea,2021
+Guinea,2022
+Guinea,2023
+Guinea,2024
+Guinea,2025
+Rwanda,2000
+Rwanda,2001
+Rwanda,2002
+Rwanda,2003
+Rwanda,2004
+Rwanda,2005
+Rwanda,2006
+Rwanda,2007
+Rwanda,2008
+Rwanda,2009
+Rwanda,2010
+Rwanda,2011
+Rwanda,2012
+Rwanda,2013
+Rwanda,2014
+Rwanda,2015
+Rwanda,2016
+Rwanda,2017
+Rwanda,2018
+Rwanda,2019
+Rwanda,2020
+Rwanda,2021
+Rwanda,2022
+Rwanda,2023
+Rwanda,2024
+Rwanda,2025
+Benin,2000
+Benin,2001
+Benin,2002
+Benin,2003
+Benin,2004
+Benin,2005
+Benin,2006
+Benin,2007
+Benin,2008
+Benin,2009
+Benin,2010
+Benin,2011
+Benin,2012
+Benin,2013
+Benin,2014
+Benin,2015
+Benin,2016
+Benin,2017
+Benin,2018
+Benin,2019
+Benin,2020
+Benin,2021
+Benin,2022
+Benin,2023
+Benin,2024
+Benin,2025
+Burundi,2000
+Burundi,2001
+Burundi,2002
+Burundi,2003
+Burundi,2004
+Burundi,2005
+Burundi,2006
+Burundi,2007
+Burundi,2008
+Burundi,2009
+Burundi,2010
+Burundi,2011
+Burundi,2012
+Burundi,2013
+Burundi,2014
+Burundi,2015
+Burundi,2016
+Burundi,2017
+Burundi,2018
+Burundi,2019
+Burundi,2020
+Burundi,2021
+Burundi,2022
+Burundi,2023
+Burundi,2024
+Burundi,2025
+Tunisia,2000
+Tunisia,2001
+Tunisia,2002
+Tunisia,2003
+Tunisia,2004
+Tunisia,2005
+Tunisia,2006
+Tunisia,2007
+Tunisia,2008
+Tunisia,2009
+Tunisia,2010
+Tunisia,2011
+Tunisia,2012
+Tunisia,2013
+Tunisia,2014
+Tunisia,2015
+Tunisia,2016
+Tunisia,2017
+Tunisia,2018
+Tunisia,2019
+Tunisia,2020
+Tunisia,2021
+Tunisia,2022
+Tunisia,2023
+Tunisia,2024
+Tunisia,2025
+Bolivia,2000
+Bolivia,2001
+Bolivia,2002
+Bolivia,2003
+Bolivia,2004
+Bolivia,2005
+Bolivia,2006
+Bolivia,2007
+Bolivia,2008
+Bolivia,2009
+Bolivia,2010
+Bolivia,2011
+Bolivia,2012
+Bolivia,2013
+Bolivia,2014
+Bolivia,2015
+Bolivia,2016
+Bolivia,2017
+Bolivia,2018
+Bolivia,2019
+Bolivia,2020
+Bolivia,2021
+Bolivia,2022
+Bolivia,2023
+Bolivia,2024
+Bolivia,2025
+Belgium,2000
+Belgium,2001
+Belgium,2002
+Belgium,2003
+Belgium,2004
+Belgium,2005
+Belgium,2006
+Belgium,2007
+Belgium,2008
+Belgium,2009
+Belgium,2010
+Belgium,2011
+Belgium,2012
+Belgium,2013
+Belgium,2014
+Belgium,2015
+Belgium,2016
+Belgium,2017
+Belgium,2018
+Belgium,2019
+Belgium,2020
+Belgium,2021
+Belgium,2022
+Belgium,2023
+Belgium,2024
+Belgium,2025
+Haiti,2000
+Haiti,2001
+Haiti,2002
+Haiti,2003
+Haiti,2004
+Haiti,2005
+Haiti,2006
+Haiti,2007
+Haiti,2008
+Haiti,2009
+Haiti,2010
+Haiti,2011
+Haiti,2012
+Haiti,2013
+Haiti,2014
+Haiti,2015
+Haiti,2016
+Haiti,2017
+Haiti,2018
+Haiti,2019
+Haiti,2020
+Haiti,2021
+Haiti,2022
+Haiti,2023
+Haiti,2024
+Haiti,2025
+Cuba,2000
+Cuba,2001
+Cuba,2002
+Cuba,2003
+Cuba,2004
+Cuba,2005
+Cuba,2006
+Cuba,2007
+Cuba,2008
+Cuba,2009
+Cuba,2010
+Cuba,2011
+Cuba,2012
+Cuba,2013
+Cuba,2014
+Cuba,2015
+Cuba,2016
+Cuba,2017
+Cuba,2018
+Cuba,2019
+Cuba,2020
+Cuba,2021
+Cuba,2022
+Cuba,2023
+Cuba,2024
+Cuba,2025
+South Sudan,2000
+South Sudan,2001
+South Sudan,2002
+South Sudan,2003
+South Sudan,2004
+South Sudan,2005
+South Sudan,2006
+South Sudan,2007
+South Sudan,2008
+South Sudan,2009
+South Sudan,2010
+South Sudan,2011
+South Sudan,2012
+South Sudan,2013
+South Sudan,2014
+South Sudan,2015
+South Sudan,2016
+South Sudan,2017
+South Sudan,2018
+South Sudan,2019
+South Sudan,2020
+South Sudan,2021
+South Sudan,2022
+South Sudan,2023
+South Sudan,2024
+South Sudan,2025
+Dominican Republic,2000
+Dominican Republic,2001
+Dominican Republic,2002
+Dominican Republic,2003
+Dominican Republic,2004
+Dominican Republic,2005
+Dominican Republic,2006
+Dominican Republic,2007
+Dominican Republic,2008
+Dominican Republic,2009
+Dominican Republic,2010
+Dominican Republic,2011
+Dominican Republic,2012
+Dominican Republic,2013
+Dominican Republic,2014
+Dominican Republic,2015
+Dominican Republic,2016
+Dominican Republic,2017
+Dominican Republic,2018
+Dominican Republic,2019
+Dominican Republic,2020
+Dominican Republic,2021
+Dominican Republic,2022
+Dominican Republic,2023
+Dominican Republic,2024
+Dominican Republic,2025
+Czech Republic,2000
+Czech Republic,2001
+Czech Republic,2002
+Czech Republic,2003
+Czech Republic,2004
+Czech Republic,2005
+Czech Republic,2006
+Czech Republic,2007
+Czech Republic,2008
+Czech Republic,2009
+Czech Republic,2010
+Czech Republic,2011
+Czech Republic,2012
+Czech Republic,2013
+Czech Republic,2014
+Czech Republic,2015
+Czech Republic,2016
+Czech Republic,2017
+Czech Republic,2018
+Czech Republic,2019
+Czech Republic,2020
+Czech Republic,2021
+Czech Republic,2022
+Czech Republic,2023
+Czech Republic,2024
+Czech Republic,2025
+Greece,2000
+Greece,2001
+Greece,2002
+Greece,2003
+Greece,2004
+Greece,2005
+Greece,2006
+Greece,2007
+Greece,2008
+Greece,2009
+Greece,2010
+Greece,2011
+Greece,2012
+Greece,2013
+Greece,2014
+Greece,2015
+Greece,2016
+Greece,2017
+Greece,2018
+Greece,2019
+Greece,2020
+Greece,2021
+Greece,2022
+Greece,2023
+Greece,2024
+Greece,2025
+Jordan,2000
+Jordan,2001
+Jordan,2002
+Jordan,2003
+Jordan,2004
+Jordan,2005
+Jordan,2006
+Jordan,2007
+Jordan,2008
+Jordan,2009
+Jordan,2010
+Jordan,2011
+Jordan,2012
+Jordan,2013
+Jordan,2014
+Jordan,2015
+Jordan,2016
+Jordan,2017
+Jordan,2018
+Jordan,2019
+Jordan,2020
+Jordan,2021
+Jordan,2022
+Jordan,2023
+Jordan,2024
+Jordan,2025
+Portugal,2000
+Portugal,2001
+Portugal,2002
+Portugal,2003
+Portugal,2004
+Portugal,2005
+Portugal,2006
+Portugal,2007
+Portugal,2008
+Portugal,2009
+Portugal,2010
+Portugal,2011
+Portugal,2012
+Portugal,2013
+Portugal,2014
+Portugal,2015
+Portugal,2016
+Portugal,2017
+Portugal,2018
+Portugal,2019
+Portugal,2020
+Portugal,2021
+Portugal,2022
+Portugal,2023
+Portugal,2024
+Portugal,2025
+Azerbaijan,2000
+Azerbaijan,2001
+Azerbaijan,2002
+Azerbaijan,2003
+Azerbaijan,2004
+Azerbaijan,2005
+Azerbaijan,2006
+Azerbaijan,2007
+Azerbaijan,2008
+Azerbaijan,2009
+Azerbaijan,2010
+Azerbaijan,2011
+Azerbaijan,2012
+Azerbaijan,2013
+Azerbaijan,2014
+Azerbaijan,2015
+Azerbaijan,2016
+Azerbaijan,2017
+Azerbaijan,2018
+Azerbaijan,2019
+Azerbaijan,2020
+Azerbaijan,2021
+Azerbaijan,2022
+Azerbaijan,2023
+Azerbaijan,2024
+Azerbaijan,2025
+Sweden,2000
+Sweden,2001
+Sweden,2002
+Sweden,2003
+Sweden,2004
+Sweden,2005
+Sweden,2006
+Sweden,2007
+Sweden,2008
+Sweden,2009
+Sweden,2010
+Sweden,2011
+Sweden,2012
+Sweden,2013
+Sweden,2014
+Sweden,2015
+Sweden,2016
+Sweden,2017
+Sweden,2018
+Sweden,2019
+Sweden,2020
+Sweden,2021
+Sweden,2022
+Sweden,2023
+Sweden,2024
+Sweden,2025
+Honduras,2000
+Honduras,2001
+Honduras,2002
+Honduras,2003
+Honduras,2004
+Honduras,2005
+Honduras,2006
+Honduras,2007
+Honduras,2008
+Honduras,2009
+Honduras,2010
+Honduras,2011
+Honduras,2012
+Honduras,2013
+Honduras,2014
+Honduras,2015
+Honduras,2016
+Honduras,2017
+Honduras,2018
+Honduras,2019
+Honduras,2020
+Honduras,2021
+Honduras,2022
+Honduras,2023
+Honduras,2024
+Honduras,2025
+United Arab Emirates,2000
+United Arab Emirates,2001
+United Arab Emirates,2002
+United Arab Emirates,2003
+United Arab Emirates,2004
+United Arab Emirates,2005
+United Arab Emirates,2006
+United Arab Emirates,2007
+United Arab Emirates,2008
+United Arab Emirates,2009
+United Arab Emirates,2010
+United Arab Emirates,2011
+United Arab Emirates,2012
+United Arab Emirates,2013
+United Arab Emirates,2014
+United Arab Emirates,2015
+United Arab Emirates,2016
+United Arab Emirates,2017
+United Arab Emirates,2018
+United Arab Emirates,2019
+United Arab Emirates,2020
+United Arab Emirates,2021
+United Arab Emirates,2022
+United Arab Emirates,2023
+United Arab Emirates,2024
+United Arab Emirates,2025
+Hungary,2000
+Hungary,2001
+Hungary,2002
+Hungary,2003
+Hungary,2004
+Hungary,2005
+Hungary,2006
+Hungary,2007
+Hungary,2008
+Hungary,2009
+Hungary,2010
+Hungary,2011
+Hungary,2012
+Hungary,2013
+Hungary,2014
+Hungary,2015
+Hungary,2016
+Hungary,2017
+Hungary,2018
+Hungary,2019
+Hungary,2020
+Hungary,2021
+Hungary,2022
+Hungary,2023
+Hungary,2024
+Hungary,2025
+Tajikistan,2000
+Tajikistan,2001
+Tajikistan,2002
+Tajikistan,2003
+Tajikistan,2004
+Tajikistan,2005
+Tajikistan,2006
+Tajikistan,2007
+Tajikistan,2008
+Tajikistan,2009
+Tajikistan,2010
+Tajikistan,2011
+Tajikistan,2012
+Tajikistan,2013
+Tajikistan,2014
+Tajikistan,2015
+Tajikistan,2016
+Tajikistan,2017
+Tajikistan,2018
+Tajikistan,2019
+Tajikistan,2020
+Tajikistan,2021
+Tajikistan,2022
+Tajikistan,2023
+Tajikistan,2024
+Tajikistan,2025
+Belarus,2000
+Belarus,2001
+Belarus,2002
+Belarus,2003
+Belarus,2004
+Belarus,2005
+Belarus,2006
+Belarus,2007
+Belarus,2008
+Belarus,2009
+Belarus,2010
+Belarus,2011
+Belarus,2012
+Belarus,2013
+Belarus,2014
+Belarus,2015
+Belarus,2016
+Belarus,2017
+Belarus,2018
+Belarus,2019
+Belarus,2020
+Belarus,2021
+Belarus,2022
+Belarus,2023
+Belarus,2024
+Belarus,2025
+Austria,2000
+Austria,2001
+Austria,2002
+Austria,2003
+Austria,2004
+Austria,2005
+Austria,2006
+Austria,2007
+Austria,2008
+Austria,2009
+Austria,2010
+Austria,2011
+Austria,2012
+Austria,2013
+Austria,2014
+Austria,2015
+Austria,2016
+Austria,2017
+Austria,2018
+Austria,2019
+Austria,2020
+Austria,2021
+Austria,2022
+Austria,2023
+Austria,2024
+Austria,2025
+Papua New Guinea,2000
+Papua New Guinea,2001
+Papua New Guinea,2002
+Papua New Guinea,2003
+Papua New Guinea,2004
+Papua New Guinea,2005
+Papua New Guinea,2006
+Papua New Guinea,2007
+Papua New Guinea,2008
+Papua New Guinea,2009
+Papua New Guinea,2010
+Papua New Guinea,2011
+Papua New Guinea,2012
+Papua New Guinea,2013
+Papua New Guinea,2014
+Papua New Guinea,2015
+Papua New Guinea,2016
+Papua New Guinea,2017
+Papua New Guinea,2018
+Papua New Guinea,2019
+Papua New Guinea,2020
+Papua New Guinea,2021
+Papua New Guinea,2022
+Papua New Guinea,2023
+Papua New Guinea,2024
+Papua New Guinea,2025
+Serbia,2000
+Serbia,2001
+Serbia,2002
+Serbia,2003
+Serbia,2004
+Serbia,2005
+Serbia,2006
+Serbia,2007
+Serbia,2008
+Serbia,2009
+Serbia,2010
+Serbia,2011
+Serbia,2012
+Serbia,2013
+Serbia,2014
+Serbia,2015
+Serbia,2016
+Serbia,2017
+Serbia,2018
+Serbia,2019
+Serbia,2020
+Serbia,2021
+Serbia,2022
+Serbia,2023
+Serbia,2024
+Serbia,2025
+Israel,2000
+Israel,2001
+Israel,2002
+Israel,2003
+Israel,2004
+Israel,2005
+Israel,2006
+Israel,2007
+Israel,2008
+Israel,2009
+Israel,2010
+Israel,2011
+Israel,2012
+Israel,2013
+Israel,2014
+Israel,2015
+Israel,2016
+Israel,2017
+Israel,2018
+Israel,2019
+Israel,2020
+Israel,2021
+Israel,2022
+Israel,2023
+Israel,2024
+Israel,2025
+Switzerland,2000
+Switzerland,2001
+Switzerland,2002
+Switzerland,2003
+Switzerland,2004
+Switzerland,2005
+Switzerland,2006
+Switzerland,2007
+Switzerland,2008
+Switzerland,2009
+Switzerland,2010
+Switzerland,2011
+Switzerland,2012
+Switzerland,2013
+Switzerland,2014
+Switzerland,2015
+Switzerland,2016
+Switzerland,2017
+Switzerland,2018
+Switzerland,2019
+Switzerland,2020
+Switzerland,2021
+Switzerland,2022
+Switzerland,2023
+Switzerland,2024
+Switzerland,2025
+Togo,2000
+Togo,2001
+Togo,2002
+Togo,2003
+Togo,2004
+Togo,2005
+Togo,2006
+Togo,2007
+Togo,2008
+Togo,2009
+Togo,2010
+Togo,2011
+Togo,2012
+Togo,2013
+Togo,2014
+Togo,2015
+Togo,2016
+Togo,2017
+Togo,2018
+Togo,2019
+Togo,2020
+Togo,2021
+Togo,2022
+Togo,2023
+Togo,2024
+Togo,2025
+Sierra Leone,2000
+Sierra Leone,2001
+Sierra Leone,2002
+Sierra Leone,2003
+Sierra Leone,2004
+Sierra Leone,2005
+Sierra Leone,2006
+Sierra Leone,2007
+Sierra Leone,2008
+Sierra Leone,2009
+Sierra Leone,2010
+Sierra Leone,2011
+Sierra Leone,2012
+Sierra Leone,2013
+Sierra Leone,2014
+Sierra Leone,2015
+Sierra Leone,2016
+Sierra Leone,2017
+Sierra Leone,2018
+Sierra Leone,2019
+Sierra Leone,2020
+Sierra Leone,2021
+Sierra Leone,2022
+Sierra Leone,2023
+Sierra Leone,2024
+Sierra Leone,2025
+Hong Kong,2000
+Hong Kong,2001
+Hong Kong,2002
+Hong Kong,2003
+Hong Kong,2004
+Hong Kong,2005
+Hong Kong,2006
+Hong Kong,2007
+Hong Kong,2008
+Hong Kong,2009
+Hong Kong,2010
+Hong Kong,2011
+Hong Kong,2012
+Hong Kong,2013
+Hong Kong,2014
+Hong Kong,2015
+Hong Kong,2016
+Hong Kong,2017
+Hong Kong,2018
+Hong Kong,2019
+Hong Kong,2020
+Hong Kong,2021
+Hong Kong,2022
+Hong Kong,2023
+Hong Kong,2024
+Hong Kong,2025
+Laos,2000
+Laos,2001
+Laos,2002
+Laos,2003
+Laos,2004
+Laos,2005
+Laos,2006
+Laos,2007
+Laos,2008
+Laos,2009
+Laos,2010
+Laos,2011
+Laos,2012
+Laos,2013
+Laos,2014
+Laos,2015
+Laos,2016
+Laos,2017
+Laos,2018
+Laos,2019
+Laos,2020
+Laos,2021
+Laos,2022
+Laos,2023
+Laos,2024
+Laos,2025
+Paraguay,2000
+Paraguay,2001
+Paraguay,2002
+Paraguay,2003
+Paraguay,2004
+Paraguay,2005
+Paraguay,2006
+Paraguay,2007
+Paraguay,2008
+Paraguay,2009
+Paraguay,2010
+Paraguay,2011
+Paraguay,2012
+Paraguay,2013
+Paraguay,2014
+Paraguay,2015
+Paraguay,2016
+Paraguay,2017
+Paraguay,2018
+Paraguay,2019
+Paraguay,2020
+Paraguay,2021
+Paraguay,2022
+Paraguay,2023
+Paraguay,2024
+Paraguay,2025
+Bulgaria,2000
+Bulgaria,2001
+Bulgaria,2002
+Bulgaria,2003
+Bulgaria,2004
+Bulgaria,2005
+Bulgaria,2006
+Bulgaria,2007
+Bulgaria,2008
+Bulgaria,2009
+Bulgaria,2010
+Bulgaria,2011
+Bulgaria,2012
+Bulgaria,2013
+Bulgaria,2014
+Bulgaria,2015
+Bulgaria,2016
+Bulgaria,2017
+Bulgaria,2018
+Bulgaria,2019
+Bulgaria,2020
+Bulgaria,2021
+Bulgaria,2022
+Bulgaria,2023
+Bulgaria,2024
+Bulgaria,2025
+Libya,2000
+Libya,2001
+Libya,2002
+Libya,2003
+Libya,2004
+Libya,2005
+Libya,2006
+Libya,2007
+Libya,2008
+Libya,2009
+Libya,2010
+Libya,2011
+Libya,2012
+Libya,2013
+Libya,2014
+Libya,2015
+Libya,2016
+Libya,2017
+Libya,2018
+Libya,2019
+Libya,2020
+Libya,2021
+Libya,2022
+Libya,2023
+Libya,2024
+Libya,2025
+Lebanon,2000
+Lebanon,2001
+Lebanon,2002
+Lebanon,2003
+Lebanon,2004
+Lebanon,2005
+Lebanon,2006
+Lebanon,2007
+Lebanon,2008
+Lebanon,2009
+Lebanon,2010
+Lebanon,2011
+Lebanon,2012
+Lebanon,2013
+Lebanon,2014
+Lebanon,2015
+Lebanon,2016
+Lebanon,2017
+Lebanon,2018
+Lebanon,2019
+Lebanon,2020
+Lebanon,2021
+Lebanon,2022
+Lebanon,2023
+Lebanon,2024
+Lebanon,2025
+Nicaragua,2000
+Nicaragua,2001
+Nicaragua,2002
+Nicaragua,2003
+Nicaragua,2004
+Nicaragua,2005
+Nicaragua,2006
+Nicaragua,2007
+Nicaragua,2008
+Nicaragua,2009
+Nicaragua,2010
+Nicaragua,2011
+Nicaragua,2012
+Nicaragua,2013
+Nicaragua,2014
+Nicaragua,2015
+Nicaragua,2016
+Nicaragua,2017
+Nicaragua,2018
+Nicaragua,2019
+Nicaragua,2020
+Nicaragua,2021
+Nicaragua,2022
+Nicaragua,2023
+Nicaragua,2024
+Nicaragua,2025
+Kyrgyzstan,2000
+Kyrgyzstan,2001
+Kyrgyzstan,2002
+Kyrgyzstan,2003
+Kyrgyzstan,2004
+Kyrgyzstan,2005
+Kyrgyzstan,2006
+Kyrgyzstan,2007
+Kyrgyzstan,2008
+Kyrgyzstan,2009
+Kyrgyzstan,2010
+Kyrgyzstan,2011
+Kyrgyzstan,2012
+Kyrgyzstan,2013
+Kyrgyzstan,2014
+Kyrgyzstan,2015
+Kyrgyzstan,2016
+Kyrgyzstan,2017
+Kyrgyzstan,2018
+Kyrgyzstan,2019
+Kyrgyzstan,2020
+Kyrgyzstan,2021
+Kyrgyzstan,2022
+Kyrgyzstan,2023
+Kyrgyzstan,2024
+Kyrgyzstan,2025
+El Salvador,2000
+El Salvador,2001
+El Salvador,2002
+El Salvador,2003
+El Salvador,2004
+El Salvador,2005
+El Salvador,2006
+El Salvador,2007
+El Salvador,2008
+El Salvador,2009
+El Salvador,2010
+El Salvador,2011
+El Salvador,2012
+El Salvador,2013
+El Salvador,2014
+El Salvador,2015
+El Salvador,2016
+El Salvador,2017
+El Salvador,2018
+El Salvador,2019
+El Salvador,2020
+El Salvador,2021
+El Salvador,2022
+El Salvador,2023
+El Salvador,2024
+El Salvador,2025
+Turkmenistan,2000
+Turkmenistan,2001
+Turkmenistan,2002
+Turkmenistan,2003
+Turkmenistan,2004
+Turkmenistan,2005
+Turkmenistan,2006
+Turkmenistan,2007
+Turkmenistan,2008
+Turkmenistan,2009
+Turkmenistan,2010
+Turkmenistan,2011
+Turkmenistan,2012
+Turkmenistan,2013
+Turkmenistan,2014
+Turkmenistan,2015
+Turkmenistan,2016
+Turkmenistan,2017
+Turkmenistan,2018
+Turkmenistan,2019
+Turkmenistan,2020
+Turkmenistan,2021
+Turkmenistan,2022
+Turkmenistan,2023
+Turkmenistan,2024
+Turkmenistan,2025
+Singapore,2000
+Singapore,2001
+Singapore,2002
+Singapore,2003
+Singapore,2004
+Singapore,2005
+Singapore,2006
+Singapore,2007
+Singapore,2008
+Singapore,2009
+Singapore,2010
+Singapore,2011
+Singapore,2012
+Singapore,2013
+Singapore,2014
+Singapore,2015
+Singapore,2016
+Singapore,2017
+Singapore,2018
+Singapore,2019
+Singapore,2020
+Singapore,2021
+Singapore,2022
+Singapore,2023
+Singapore,2024
+Singapore,2025
+Denmark,2000
+Denmark,2001
+Denmark,2002
+Denmark,2003
+Denmark,2004
+Denmark,2005
+Denmark,2006
+Denmark,2007
+Denmark,2008
+Denmark,2009
+Denmark,2010
+Denmark,2011
+Denmark,2012
+Denmark,2013
+Denmark,2014
+Denmark,2015
+Denmark,2016
+Denmark,2017
+Denmark,2018
+Denmark,2019
+Denmark,2020
+Denmark,2021
+Denmark,2022
+Denmark,2023
+Denmark,2024
+Denmark,2025
+Finland,2000
+Finland,2001
+Finland,2002
+Finland,2003
+Finland,2004
+Finland,2005
+Finland,2006
+Finland,2007
+Finland,2008
+Finland,2009
+Finland,2010
+Finland,2011
+Finland,2012
+Finland,2013
+Finland,2014
+Finland,2015
+Finland,2016
+Finland,2017
+Finland,2018
+Finland,2019
+Finland,2020
+Finland,2021
+Finland,2022
+Finland,2023
+Finland,2024
+Finland,2025
+Slovakia,2000
+Slovakia,2001
+Slovakia,2002
+Slovakia,2003
+Slovakia,2004
+Slovakia,2005
+Slovakia,2006
+Slovakia,2007
+Slovakia,2008
+Slovakia,2009
+Slovakia,2010
+Slovakia,2011
+Slovakia,2012
+Slovakia,2013
+Slovakia,2014
+Slovakia,2015
+Slovakia,2016
+Slovakia,2017
+Slovakia,2018
+Slovakia,2019
+Slovakia,2020
+Slovakia,2021
+Slovakia,2022
+Slovakia,2023
+Slovakia,2024
+Slovakia,2025
+Norway,2000
+Norway,2001
+Norway,2002
+Norway,2003
+Norway,2004
+Norway,2005
+Norway,2006
+Norway,2007
+Norway,2008
+Norway,2009
+Norway,2010
+Norway,2011
+Norway,2012
+Norway,2013
+Norway,2014
+Norway,2015
+Norway,2016
+Norway,2017
+Norway,2018
+Norway,2019
+Norway,2020
+Norway,2021
+Norway,2022
+Norway,2023
+Norway,2024
+Norway,2025
+Oman,2000
+Oman,2001
+Oman,2002
+Oman,2003
+Oman,2004
+Oman,2005
+Oman,2006
+Oman,2007
+Oman,2008
+Oman,2009
+Oman,2010
+Oman,2011
+Oman,2012
+Oman,2013
+Oman,2014
+Oman,2015
+Oman,2016
+Oman,2017
+Oman,2018
+Oman,2019
+Oman,2020
+Oman,2021
+Oman,2022
+Oman,2023
+Oman,2024
+Oman,2025
+State of Palestine,2000
+State of Palestine,2001
+State of Palestine,2002
+State of Palestine,2003
+State of Palestine,2004
+State of Palestine,2005
+State of Palestine,2006
+State of Palestine,2007
+State of Palestine,2008
+State of Palestine,2009
+State of Palestine,2010
+State of Palestine,2011
+State of Palestine,2012
+State of Palestine,2013
+State of Palestine,2014
+State of Palestine,2015
+State of Palestine,2016
+State of Palestine,2017
+State of Palestine,2018
+State of Palestine,2019
+State of Palestine,2020
+State of Palestine,2021
+State of Palestine,2022
+State of Palestine,2023
+State of Palestine,2024
+State of Palestine,2025
+Costa Rica,2000
+Costa Rica,2001
+Costa Rica,2002
+Costa Rica,2003
+Costa Rica,2004
+Costa Rica,2005
+Costa Rica,2006
+Costa Rica,2007
+Costa Rica,2008
+Costa Rica,2009
+Costa Rica,2010
+Costa Rica,2011
+Costa Rica,2012
+Costa Rica,2013
+Costa Rica,2014
+Costa Rica,2015
+Costa Rica,2016
+Costa Rica,2017
+Costa Rica,2018
+Costa Rica,2019
+Costa Rica,2020
+Costa Rica,2021
+Costa Rica,2022
+Costa Rica,2023
+Costa Rica,2024
+Costa Rica,2025
+Liberia,2000
+Liberia,2001
+Liberia,2002
+Liberia,2003
+Liberia,2004
+Liberia,2005
+Liberia,2006
+Liberia,2007
+Liberia,2008
+Liberia,2009
+Liberia,2010
+Liberia,2011
+Liberia,2012
+Liberia,2013
+Liberia,2014
+Liberia,2015
+Liberia,2016
+Liberia,2017
+Liberia,2018
+Liberia,2019
+Liberia,2020
+Liberia,2021
+Liberia,2022
+Liberia,2023
+Liberia,2024
+Liberia,2025
+Ireland,2000
+Ireland,2001
+Ireland,2002
+Ireland,2003
+Ireland,2004
+Ireland,2005
+Ireland,2006
+Ireland,2007
+Ireland,2008
+Ireland,2009
+Ireland,2010
+Ireland,2011
+Ireland,2012
+Ireland,2013
+Ireland,2014
+Ireland,2015
+Ireland,2016
+Ireland,2017
+Ireland,2018
+Ireland,2019
+Ireland,2020
+Ireland,2021
+Ireland,2022
+Ireland,2023
+Ireland,2024
+Ireland,2025
+Central African Republic,2000
+Central African Republic,2001
+Central African Republic,2002
+Central African Republic,2003
+Central African Republic,2004
+Central African Republic,2005
+Central African Republic,2006
+Central African Republic,2007
+Central African Republic,2008
+Central African Republic,2009
+Central African Republic,2010
+Central African Republic,2011
+Central African Republic,2012
+Central African Republic,2013
+Central African Republic,2014
+Central African Republic,2015
+Central African Republic,2016
+Central African Republic,2017
+Central African Republic,2018
+Central African Republic,2019
+Central African Republic,2020
+Central African Republic,2021
+Central African Republic,2022
+Central African Republic,2023
+Central African Republic,2024
+Central African Republic,2025
+New Zealand,2000
+New Zealand,2001
+New Zealand,2002
+New Zealand,2003
+New Zealand,2004
+New Zealand,2005
+New Zealand,2006
+New Zealand,2007
+New Zealand,2008
+New Zealand,2009
+New Zealand,2010
+New Zealand,2011
+New Zealand,2012
+New Zealand,2013
+New Zealand,2014
+New Zealand,2015
+New Zealand,2016
+New Zealand,2017
+New Zealand,2018
+New Zealand,2019
+New Zealand,2020
+New Zealand,2021
+New Zealand,2022
+New Zealand,2023
+New Zealand,2024
+New Zealand,2025
+Mauritania,2000
+Mauritania,2001
+Mauritania,2002
+Mauritania,2003
+Mauritania,2004
+Mauritania,2005
+Mauritania,2006
+Mauritania,2007
+Mauritania,2008
+Mauritania,2009
+Mauritania,2010
+Mauritania,2011
+Mauritania,2012
+Mauritania,2013
+Mauritania,2014
+Mauritania,2015
+Mauritania,2016
+Mauritania,2017
+Mauritania,2018
+Mauritania,2019
+Mauritania,2020
+Mauritania,2021
+Mauritania,2022
+Mauritania,2023
+Mauritania,2024
+Mauritania,2025
+Panama,2000
+Panama,2001
+Panama,2002
+Panama,2003
+Panama,2004
+Panama,2005
+Panama,2006
+Panama,2007
+Panama,2008
+Panama,2009
+Panama,2010
+Panama,2011
+Panama,2012
+Panama,2013
+Panama,2014
+Panama,2015
+Panama,2016
+Panama,2017
+Panama,2018
+Panama,2019
+Panama,2020
+Panama,2021
+Panama,2022
+Panama,2023
+Panama,2024
+Panama,2025
+Kuwait,2000
+Kuwait,2001
+Kuwait,2002
+Kuwait,2003
+Kuwait,2004
+Kuwait,2005
+Kuwait,2006
+Kuwait,2007
+Kuwait,2008
+Kuwait,2009
+Kuwait,2010
+Kuwait,2011
+Kuwait,2012
+Kuwait,2013
+Kuwait,2014
+Kuwait,2015
+Kuwait,2016
+Kuwait,2017
+Kuwait,2018
+Kuwait,2019
+Kuwait,2020
+Kuwait,2021
+Kuwait,2022
+Kuwait,2023
+Kuwait,2024
+Kuwait,2025
+Croatia,2000
+Croatia,2001
+Croatia,2002
+Croatia,2003
+Croatia,2004
+Croatia,2005
+Croatia,2006
+Croatia,2007
+Croatia,2008
+Croatia,2009
+Croatia,2010
+Croatia,2011
+Croatia,2012
+Croatia,2013
+Croatia,2014
+Croatia,2015
+Croatia,2016
+Croatia,2017
+Croatia,2018
+Croatia,2019
+Croatia,2020
+Croatia,2021
+Croatia,2022
+Croatia,2023
+Croatia,2024
+Croatia,2025
+Moldova,2000
+Moldova,2001
+Moldova,2002
+Moldova,2003
+Moldova,2004
+Moldova,2005
+Moldova,2006
+Moldova,2007
+Moldova,2008
+Moldova,2009
+Moldova,2010
+Moldova,2011
+Moldova,2012
+Moldova,2013
+Moldova,2014
+Moldova,2015
+Moldova,2016
+Moldova,2017
+Moldova,2018
+Moldova,2019
+Moldova,2020
+Moldova,2021
+Moldova,2022
+Moldova,2023
+Moldova,2024
+Moldova,2025
+Georgia,2000
+Georgia,2001
+Georgia,2002
+Georgia,2003
+Georgia,2004
+Georgia,2005
+Georgia,2006
+Georgia,2007
+Georgia,2008
+Georgia,2009
+Georgia,2010
+Georgia,2011
+Georgia,2012
+Georgia,2013
+Georgia,2014
+Georgia,2015
+Georgia,2016
+Georgia,2017
+Georgia,2018
+Georgia,2019
+Georgia,2020
+Georgia,2021
+Georgia,2022
+Georgia,2023
+Georgia,2024
+Georgia,2025
+Eritrea,2000
+Eritrea,2001
+Eritrea,2002
+Eritrea,2003
+Eritrea,2004
+Eritrea,2005
+Eritrea,2006
+Eritrea,2007
+Eritrea,2008
+Eritrea,2009
+Eritrea,2010
+Eritrea,2011
+Eritrea,2012
+Eritrea,2013
+Eritrea,2014
+Eritrea,2015
+Eritrea,2016
+Eritrea,2017
+Eritrea,2018
+Eritrea,2019
+Eritrea,2020
+Eritrea,2021
+Eritrea,2022
+Eritrea,2023
+Eritrea,2024
+Eritrea,2025
+Uruguay,2000
+Uruguay,2001
+Uruguay,2002
+Uruguay,2003
+Uruguay,2004
+Uruguay,2005
+Uruguay,2006
+Uruguay,2007
+Uruguay,2008
+Uruguay,2009
+Uruguay,2010
+Uruguay,2011
+Uruguay,2012
+Uruguay,2013
+Uruguay,2014
+Uruguay,2015
+Uruguay,2016
+Uruguay,2017
+Uruguay,2018
+Uruguay,2019
+Uruguay,2020
+Uruguay,2021
+Uruguay,2022
+Uruguay,2023
+Uruguay,2024
+Uruguay,2025
+Bosnia and Herzegovina,2000
+Bosnia and Herzegovina,2001
+Bosnia and Herzegovina,2002
+Bosnia and Herzegovina,2003
+Bosnia and Herzegovina,2004
+Bosnia and Herzegovina,2005
+Bosnia and Herzegovina,2006
+Bosnia and Herzegovina,2007
+Bosnia and Herzegovina,2008
+Bosnia and Herzegovina,2009
+Bosnia and Herzegovina,2010
+Bosnia and Herzegovina,2011
+Bosnia and Herzegovina,2012
+Bosnia and Herzegovina,2013
+Bosnia and Herzegovina,2014
+Bosnia and Herzegovina,2015
+Bosnia and Herzegovina,2016
+Bosnia and Herzegovina,2017
+Bosnia and Herzegovina,2018
+Bosnia and Herzegovina,2019
+Bosnia and Herzegovina,2020
+Bosnia and Herzegovina,2021
+Bosnia and Herzegovina,2022
+Bosnia and Herzegovina,2023
+Bosnia and Herzegovina,2024
+Bosnia and Herzegovina,2025
+Mongolia,2000
+Mongolia,2001
+Mongolia,2002
+Mongolia,2003
+Mongolia,2004
+Mongolia,2005
+Mongolia,2006
+Mongolia,2007
+Mongolia,2008
+Mongolia,2009
+Mongolia,2010
+Mongolia,2011
+Mongolia,2012
+Mongolia,2013
+Mongolia,2014
+Mongolia,2015
+Mongolia,2016
+Mongolia,2017
+Mongolia,2018
+Mongolia,2019
+Mongolia,2020
+Mongolia,2021
+Mongolia,2022
+Mongolia,2023
+Mongolia,2024
+Mongolia,2025
+Armenia,2000
+Armenia,2001
+Armenia,2002
+Armenia,2003
+Armenia,2004
+Armenia,2005
+Armenia,2006
+Armenia,2007
+Armenia,2008
+Armenia,2009
+Armenia,2010
+Armenia,2011
+Armenia,2012
+Armenia,2013
+Armenia,2014
+Armenia,2015
+Armenia,2016
+Armenia,2017
+Armenia,2018
+Armenia,2019
+Armenia,2020
+Armenia,2021
+Armenia,2022
+Armenia,2023
+Armenia,2024
+Armenia,2025
+Jamaica,2000
+Jamaica,2001
+Jamaica,2002
+Jamaica,2003
+Jamaica,2004
+Jamaica,2005
+Jamaica,2006
+Jamaica,2007
+Jamaica,2008
+Jamaica,2009
+Jamaica,2010
+Jamaica,2011
+Jamaica,2012
+Jamaica,2013
+Jamaica,2014
+Jamaica,2015
+Jamaica,2016
+Jamaica,2017
+Jamaica,2018
+Jamaica,2019
+Jamaica,2020
+Jamaica,2021
+Jamaica,2022
+Jamaica,2023
+Jamaica,2024
+Jamaica,2025
+Qatar,2000
+Qatar,2001
+Qatar,2002
+Qatar,2003
+Qatar,2004
+Qatar,2005
+Qatar,2006
+Qatar,2007
+Qatar,2008
+Qatar,2009
+Qatar,2010
+Qatar,2011
+Qatar,2012
+Qatar,2013
+Qatar,2014
+Qatar,2015
+Qatar,2016
+Qatar,2017
+Qatar,2018
+Qatar,2019
+Qatar,2020
+Qatar,2021
+Qatar,2022
+Qatar,2023
+Qatar,2024
+Qatar,2025
+Albania,2000
+Albania,2001
+Albania,2002
+Albania,2003
+Albania,2004
+Albania,2005
+Albania,2006
+Albania,2007
+Albania,2008
+Albania,2009
+Albania,2010
+Albania,2011
+Albania,2012
+Albania,2013
+Albania,2014
+Albania,2015
+Albania,2016
+Albania,2017
+Albania,2018
+Albania,2019
+Albania,2020
+Albania,2021
+Albania,2022
+Albania,2023
+Albania,2024
+Albania,2025
+Lithuania,2000
+Lithuania,2001
+Lithuania,2002
+Lithuania,2003
+Lithuania,2004
+Lithuania,2005
+Lithuania,2006
+Lithuania,2007
+Lithuania,2008
+Lithuania,2009
+Lithuania,2010
+Lithuania,2011
+Lithuania,2012
+Lithuania,2013
+Lithuania,2014
+Lithuania,2015
+Lithuania,2016
+Lithuania,2017
+Lithuania,2018
+Lithuania,2019
+Lithuania,2020
+Lithuania,2021
+Lithuania,2022
+Lithuania,2023
+Lithuania,2024
+Lithuania,2025
+Namibia,2000
+Namibia,2001
+Namibia,2002
+Namibia,2003
+Namibia,2004
+Namibia,2005
+Namibia,2006
+Namibia,2007
+Namibia,2008
+Namibia,2009
+Namibia,2010
+Namibia,2011
+Namibia,2012
+Namibia,2013
+Namibia,2014
+Namibia,2015
+Namibia,2016
+Namibia,2017
+Namibia,2018
+Namibia,2019
+Namibia,2020
+Namibia,2021
+Namibia,2022
+Namibia,2023
+Namibia,2024
+Namibia,2025
+Gambia,2000
+Gambia,2001
+Gambia,2002
+Gambia,2003
+Gambia,2004
+Gambia,2005
+Gambia,2006
+Gambia,2007
+Gambia,2008
+Gambia,2009
+Gambia,2010
+Gambia,2011
+Gambia,2012
+Gambia,2013
+Gambia,2014
+Gambia,2015
+Gambia,2016
+Gambia,2017
+Gambia,2018
+Gambia,2019
+Gambia,2020
+Gambia,2021
+Gambia,2022
+Gambia,2023
+Gambia,2024
+Gambia,2025
+Botswana,2000
+Botswana,2001
+Botswana,2002
+Botswana,2003
+Botswana,2004
+Botswana,2005
+Botswana,2006
+Botswana,2007
+Botswana,2008
+Botswana,2009
+Botswana,2010
+Botswana,2011
+Botswana,2012
+Botswana,2013
+Botswana,2014
+Botswana,2015
+Botswana,2016
+Botswana,2017
+Botswana,2018
+Botswana,2019
+Botswana,2020
+Botswana,2021
+Botswana,2022
+Botswana,2023
+Botswana,2024
+Botswana,2025
+Gabon,2000
+Gabon,2001
+Gabon,2002
+Gabon,2003
+Gabon,2004
+Gabon,2005
+Gabon,2006
+Gabon,2007
+Gabon,2008
+Gabon,2009
+Gabon,2010
+Gabon,2011
+Gabon,2012
+Gabon,2013
+Gabon,2014
+Gabon,2015
+Gabon,2016
+Gabon,2017
+Gabon,2018
+Gabon,2019
+Gabon,2020
+Gabon,2021
+Gabon,2022
+Gabon,2023
+Gabon,2024
+Gabon,2025
+Lesotho,2000
+Lesotho,2001
+Lesotho,2002
+Lesotho,2003
+Lesotho,2004
+Lesotho,2005
+Lesotho,2006
+Lesotho,2007
+Lesotho,2008
+Lesotho,2009
+Lesotho,2010
+Lesotho,2011
+Lesotho,2012
+Lesotho,2013
+Lesotho,2014
+Lesotho,2015
+Lesotho,2016
+Lesotho,2017
+Lesotho,2018
+Lesotho,2019
+Lesotho,2020
+Lesotho,2021
+Lesotho,2022
+Lesotho,2023
+Lesotho,2024
+Lesotho,2025
+North Macedonia,2000
+North Macedonia,2001
+North Macedonia,2002
+North Macedonia,2003
+North Macedonia,2004
+North Macedonia,2005
+North Macedonia,2006
+North Macedonia,2007
+North Macedonia,2008
+North Macedonia,2009
+North Macedonia,2010
+North Macedonia,2011
+North Macedonia,2012
+North Macedonia,2013
+North Macedonia,2014
+North Macedonia,2015
+North Macedonia,2016
+North Macedonia,2017
+North Macedonia,2018
+North Macedonia,2019
+North Macedonia,2020
+North Macedonia,2021
+North Macedonia,2022
+North Macedonia,2023
+North Macedonia,2024
+North Macedonia,2025
+Slovenia,2000
+Slovenia,2001
+Slovenia,2002
+Slovenia,2003
+Slovenia,2004
+Slovenia,2005
+Slovenia,2006
+Slovenia,2007
+Slovenia,2008
+Slovenia,2009
+Slovenia,2010
+Slovenia,2011
+Slovenia,2012
+Slovenia,2013
+Slovenia,2014
+Slovenia,2015
+Slovenia,2016
+Slovenia,2017
+Slovenia,2018
+Slovenia,2019
+Slovenia,2020
+Slovenia,2021
+Slovenia,2022
+Slovenia,2023
+Slovenia,2024
+Slovenia,2025
+Guinea-Bissau,2000
+Guinea-Bissau,2001
+Guinea-Bissau,2002
+Guinea-Bissau,2003
+Guinea-Bissau,2004
+Guinea-Bissau,2005
+Guinea-Bissau,2006
+Guinea-Bissau,2007
+Guinea-Bissau,2008
+Guinea-Bissau,2009
+Guinea-Bissau,2010
+Guinea-Bissau,2011
+Guinea-Bissau,2012
+Guinea-Bissau,2013
+Guinea-Bissau,2014
+Guinea-Bissau,2015
+Guinea-Bissau,2016
+Guinea-Bissau,2017
+Guinea-Bissau,2018
+Guinea-Bissau,2019
+Guinea-Bissau,2020
+Guinea-Bissau,2021
+Guinea-Bissau,2022
+Guinea-Bissau,2023
+Guinea-Bissau,2024
+Guinea-Bissau,2025
+Latvia,2000
+Latvia,2001
+Latvia,2002
+Latvia,2003
+Latvia,2004
+Latvia,2005
+Latvia,2006
+Latvia,2007
+Latvia,2008
+Latvia,2009
+Latvia,2010
+Latvia,2011
+Latvia,2012
+Latvia,2013
+Latvia,2014
+Latvia,2015
+Latvia,2016
+Latvia,2017
+Latvia,2018
+Latvia,2019
+Latvia,2020
+Latvia,2021
+Latvia,2022
+Latvia,2023
+Latvia,2024
+Latvia,2025
+Bahrain,2000
+Bahrain,2001
+Bahrain,2002
+Bahrain,2003
+Bahrain,2004
+Bahrain,2005
+Bahrain,2006
+Bahrain,2007
+Bahrain,2008
+Bahrain,2009
+Bahrain,2010
+Bahrain,2011
+Bahrain,2012
+Bahrain,2013
+Bahrain,2014
+Bahrain,2015
+Bahrain,2016
+Bahrain,2017
+Bahrain,2018
+Bahrain,2019
+Bahrain,2020
+Bahrain,2021
+Bahrain,2022
+Bahrain,2023
+Bahrain,2024
+Bahrain,2025
