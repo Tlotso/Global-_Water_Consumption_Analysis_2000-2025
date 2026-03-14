@@ -1,1 +1,7 @@
--e "pandas\nnumpy\nmatplotlib\nseaborn\nplotly\njoblib" 
+-pandas
+numpy
+plotly
+streamlit
+scikit-learn
+matplotlib
+seaborn
