@@ -1,67 +1,62 @@
-# Global Water Consumption Analysis (2000-2025)
+# 💧 Global Water Consumption & 2030 Risk Portal
 
-## Project Overview
-This project analyzes global water consumption patterns across multiple countries from 2000 to 2025. The dataset includes various metrics related to water usage, scarcity, and environmental factors.
+### 🔗 **[View Live Interactive Dashboard](https://your-streamlit-link-here.streamlit.app)** ---
 
-## Dataset Description
-The dataset contains the following columns:
-- **Country**: Name of the country
-- **Year**: Year of observation (2000-2025)
-- **Total Water Consumption (Billion m3)**: Total water consumed
-- **Per Capita Water Use (L/Day)**: Daily water usage per person
-- **Agricultural Water Use (%)**: Percentage used for agriculture
-- **Industrial Water Use (%)**: Percentage used for industry
-- **Household Water Use (%)**: Percentage used for households
-- **Rainfall Impact (mm)**: Rainfall measurement
-- **Groundwater Depletion Rate (%)**: Rate of groundwater depletion
-- **Water Scarcity Level**: Categorical variable (Low/Moderate/High/Critical)
+## 📋 Project Overview
+This project analyzes global water patterns from 2000–2025 to identify production inefficiencies and predict scarcity risks for 2030. I have transitioned this analysis from a static Jupyter Notebook into an **automated operational dashboard** to help client teams monitor KPIs in real-time.
 
-## Key Findings
-1. Global water consumption has steadily increased from 2000-2025
-2. Agriculture remains the largest water consumer globally
-3. Groundwater depletion rates have accelerated in water-scarce regions
-4. Significant disparity in per capita water use between developed and developing nations
-Key Insights from the Risk Analysis:
-6. By 2030, Middle Eastern and North African countries like Egypt, Iran, Jordan, and Saudi Arabia face critical water crises due to         dangerously high groundwater depletion combined with minimal rainfall. Approximately 15-20 nations require immediate international       intervention as compounding risk factors accelerate deterioration faster than previously projected.
+### 🚀 Efficiency & Operational Improvements
+As a junior analyst, I identified and implemented the following optimizations:
+* **Automated ETL:** Data connections are cached and automated via Python, eliminating manual monthly CSV processing.
+* **Standardized Layouts:** Developed a consistent "Power BI style" design across Streamlit to ensure the team can find Production and Loss metrics instantly.
+* **Operational Dashboards:** Delivered specific views for **Production** (Usage), **Loss Accounting** (Depletion), and **Risk KPIs**.
+* **Client Training:** Built-in documentation to help non-technical users navigate the 2030 projections.
 
+---
 
-## Visualizations
-The analysis includes:
-- Time series trends of water consumption
-- Comparative analysis between countries
-- Groundwater depletion patterns
-- Rainfall impact analysis
-- Water scarcity distribution
-- Interactive plots using Plotly
-- heatmap on your growth_rates
-- Global Water Consumption Growth Rate Map
-- Risk Score Distribution
-- Risk Categories Pie Chart
-- Top 15 Highest Risk Countries
-- comprehensive dashboard
+## 🧪 Key Insights from the Risk Analysis
+* **Growth Trends:** Global water consumption has shown a steady increase over 25 years, with Agriculture remaining the primary driver.
+* **Groundwater Crisis:** Depletion rates have accelerated significantly in water-scarce regions.
+* **2030 Projections:** Middle Eastern and North African nations (e.g., Egypt, Iran, Jordan, Saudi Arabia) face critical crises due to low rainfall and high depletion. 
+* **Urgent Intervention:** Approximately 15–20 nations are identified as "High Risk," requiring immediate infrastructure intervention.
 
-## Technologies Used
-- Python 3.x
-- Pandas for data manipulation
-- Matplotlib/Seaborn for static visualizations
-- Plotly for interactive visualizations
-- Jupyter Notebook
+---
 
-## How to Run
-1. Clone this repository
-2. Install required packages: `pip install pandas numpy matplotlib seaborn plotly jupyter`
-3. Open the Jupyter Notebook: `jupyter notebook water_consumption_analysis.ipynb`
-4. Run all cells
+## 📊 Dataset Description
+The dataset tracks metrics across 100+ countries, including:
+- **Total Water Consumption**: In Billion m3.
+- **Per Capita Water Use**: Daily usage per person.
+- **Sector Use**: Agricultural, Industrial, and Household percentages.
+- **Environmental Factors**: Rainfall Impact and Groundwater Depletion Rate.
+- **Risk Score**: A composite metric developed to predict 2030 vulnerability.
 
-## Files in Repository
-- `water_consumption_analysis.ipynb`: Main Jupyter Notebook
-- `global_water_consumption_2000_2025.csv`: Dataset
-- `top_consumers_by_year.csv`: Generated analysis output
-- `country_summary_stats.csv`: Generated analysis output
-- `README.md`: This file
+---
 
-## Author
-Tlotso T Pheto
+## 🛠️ Tech Stack
+* **Analysis:** Jupyter Notebook (Python)
+* **Data Science:** Pandas, NumPy, Scikit-Learn
+* **Visualization:** Plotly, Matplotlib, Seaborn
+* **App Framework:** Streamlit (For the live dashboard)
+* **Version Control:** GitHub
 
-## License
-This project is open source and available under the MIT License.
+---
+
+## 📂 Repository Structure
+* `app.py`: The live Streamlit application code.
+* `water_consumption_analysis.ipynb`: The core analytical engine and model development.
+* `water_risk_lite.csv`: Optimized, automated dataset for high-speed dashboard loading.
+* `global_water_consumption_2000_2025.csv`: Raw historical dataset.
+
+---
+
+## 📖 How to Run Locally
+1. Clone this repository.
+2. Install dependencies:  
+   `pip install pandas numpy matplotlib seaborn plotly streamlit`
+3. Launch the dashboard:  
+   `streamlit run app.py`
+
+---
+
+## 👷 Author & Analyst
+**Tlotso T Pheto** *Junior Data Analyst* *Focused on turning complex environmental data into actionable business tools.*
